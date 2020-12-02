@@ -6,7 +6,7 @@
 
 	<groupId>de.thoughtgang.maven.jib</groupId>
 	<artifactId>jib-maven-plugin-extension</artifactId>
-	<version>0.1</version>
+	<version>0.2-SNAPSHOT</version>
 	
 	<properties>
 		<dependencyVersions.MAVEN_EXTENSION>0.3.0</dependencyVersions.MAVEN_EXTENSION>
